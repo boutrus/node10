@@ -30,7 +30,7 @@ let rappers = {
         'labels': 'Republic',
         'children': 0
     },
-    'Kanye West': {
+    'kanye west': {
         'age': 44,
         'birthName': 'Kanye Omari West',
         'birthdate': '8 June 1977',
@@ -42,7 +42,7 @@ let rappers = {
         'labels': 'Roc-A-Fella, GOOD Music, Def Jam',
         'children': 4
     },
-    'Lady Gaga': {
+    'lady gaga': {
         'age': 36,
         'birthName': 'Stefani Joanne Angelina Germanotta',
         'birthdate': '28 March 1986',
@@ -54,7 +54,7 @@ let rappers = {
         'labels': 'Interscope',
         'children': 0
     },
-    'Jay-Z': {
+    'jay-z': {
         'age': 53,
         'birthName': 'Shawn Corey Carter',
         'birthdate': '4 December 1969',
@@ -66,7 +66,7 @@ let rappers = {
         'labels': 'Roc-A-Fella, Roc Nation, Def Jam',
         'children': 3
     },
-    'Billie Eilish': {
+    'billie eilish': {
         'age': 20,
         'birthName': "Billie Eilish Pirate Baird O'Connell",
         'birthdate': '18 December 2001',
@@ -78,7 +78,7 @@ let rappers = {
         'labels': 'Darkroom, Interscope',
         'children': 0
     },
-    'Ed Sheeran': {
+    'ed sheeran': {
         'age': 31,
         'birthName': 'Edward Christopher Sheeran',
         'birthdate': '17 February 1991',
@@ -90,7 +90,7 @@ let rappers = {
         'labels': 'Asylum, Atlantic',
         'children': 1
     },
-    'Post Malone': {
+    'post malone': {
         'age': 26,
         'birthName': 'Austin Richard Post',
         'birthdate': '4 July 1995',
@@ -102,7 +102,7 @@ let rappers = {
         'labels': 'Republic',
         'children': 0
     },
-    'Cardi B': {
+    'cardi b': {
         'age': 29,
         'birthName': 'Belcalis Marlenis Almánzar',
         'birthdate': '11 October 1992',
@@ -114,7 +114,7 @@ let rappers = {
         'labels': 'Atlantic',
         'children': 1
     },
-    'Justin Bieber': {
+    'justin bieber': {
         'age': 27,
         'birthName': 'Justin Drew Bieber',
         'birthdate': '1 March 1994',
@@ -126,7 +126,7 @@ let rappers = {
         'labels': 'RBMG, Def Jam',
         'children': 0
     },
-    'Ricky Martin': {
+    'ricky martin': {
         'age': 50,
         'birthName': 'Enrique Martín Morales',
         'birthdate': '24 December 1971',
@@ -138,7 +138,7 @@ let rappers = {
         'labels': 'Sony Latin, Columbia',
         'children': 4
     },
-    'Nicki Minaj': {
+    'nicki minaj': {
         'age': 39,
         'birthName': 'Onika Tanya Maraj',
         'birthdate': '8 December 1982',
@@ -162,7 +162,7 @@ let rappers = {
         'labels': 'none',
         'children': 0
     },
-    'Enrique Iglesias': {
+    'enrique iglesias': {
         'age': 47,
         'birthName': 'Enrique Miguel Iglesias Preysler',
         'birthdate': '8 May 1975',
@@ -174,7 +174,7 @@ let rappers = {
         'labels': 'Sony Music Latin, RCA',
         'children': 3
     },
-    'Christina Aguilera': {
+    'christina aguilera': {
         'age': 41,
         'birthName': 'Christina Maria Aguilera',
         'birthdate': '18 December 1980',
@@ -186,7 +186,7 @@ let rappers = {
         'labels': 'RCA',
         'children': 2
     },
-    'John Legend': {
+    'john legend': {
         'age': 43,
         'birthName': 'John Roger Stephens',
         'birthdate': '28 December 1978',
@@ -198,7 +198,7 @@ let rappers = {
         'labels': 'Columbia, GOOD Music',
         'children': 2
     },
-    'Miley Cyrus': {
+    'miley cyrus': {
         'age': 29,
         'birthName': 'Destiny Hope Cyrus',
         'birthdate': '23 November 1992',
@@ -210,7 +210,7 @@ let rappers = {
         'labels': 'RCA, Smiley Miley, Columbia',
         'children': 0
     },
-    'One Direction': {
+    'one direction': {
         'age': 32,
         'birthName': 'One Direction',
         'birthdate': '2010',
@@ -222,7 +222,7 @@ let rappers = {
         'labels': 'Syco, Columbia',
         'children': 0
     },
-    'Mariah Carey': {
+    'mariah carey': {
         'age': 52,
         'birthName': 'Mariah Angela Carey',
         'birthdate': '27 March 1969',
@@ -234,7 +234,7 @@ let rappers = {
         'labels': 'Columbia, Epic',
         'children': 2
     },
-    'G-Eazy': {
+    'g-eazy': {
         'age': 32,
         'birthName': 'Gerald Earl Gillum',
         'birthdate': '24 May 1989',
@@ -246,7 +246,7 @@ let rappers = {
         'labels': 'BPG, RCA, Interscope',
         'children': 0
     },
-    'Katy Perry': {
+    'katy perry': {
         'age': 37,
         'birthName': 'Katheryn Elizabeth Hudson',
         'birthdate': '25 October 1984',
@@ -258,7 +258,7 @@ let rappers = {
         'labels': 'Capitol',
         'children': 1
     },
-    'Elton John': {
+    'elton john': {
         'age': 75,
         'birthName': 'Reginald Kenneth Dwight',
         'birthdate': '25 March 1947',
@@ -270,7 +270,7 @@ let rappers = {
         'labels': 'Rocket, MCA, Geffen',
         'children': 2
     },
-    'Shakira': {
+    'shakira': {
         'age': 44,
         'birthName': 'Shakira Isabel Mebarak Ripoll',
         'birthdate': '2 February 1977',
@@ -282,7 +282,7 @@ let rappers = {
         'labels': 'Sony Latin, Epic',
         'children': 2
     },
-    'Drake': {
+    'drake': {
         'age': 35,
         'birthName': 'Aubrey Drake Graham',
         'birthdate': '24 October 1986',
@@ -294,7 +294,7 @@ let rappers = {
         'labels': 'OVO Sound, Republic',
         'children': 1
     },
-    'FKA twigs': {
+    'fka twigs': {
         'age': 33,
         'birthName': 'Tahliah Debrett Barnett',
         'birthdate': '16 January 1988',
@@ -306,7 +306,7 @@ let rappers = {
         'labels': 'Young Turks, Beggars Group',
         'children': 0
     },
-    'Mumford & Sons': {
+    'mumford & sons': {
         'age': 35,
         'birthName': 'Mumford & Sons',
         'birthdate': '2007',
@@ -318,7 +318,7 @@ let rappers = {
         'labels': 'Gentlemen of the Road, Island',
         'children': 0
     },
-    'Florence + The Machine': {
+    'florence + the machine': {
         'age': 35,
         'birthName': 'Florence + The Machine',
         'birthdate': '2007',
@@ -330,7 +330,7 @@ let rappers = {
         'labels': 'Island, Universal Republic',
         'children': 0
     },
-    'Maroon 5': {
+    'maroon 5': {
         'age': 42,
         'birthName': 'Maroon 5',
         'birthdate': '1994',
@@ -342,7 +342,7 @@ let rappers = {
         'labels': '222, Interscope',
         'children': 0
     },
-    'Bebe Rexha': {
+    'bebe rexha': {
         'age': 32,
         'birthName': 'Bleta Rexha',
         'birthdate': '30 August 1989',
@@ -354,7 +354,7 @@ let rappers = {
         'labels': 'Warner Bros., XO',
         'children': 0
     },
-    'Usher': {
+    'usher': {
         'age': 43,
         'birthName': 'Usher Raymond IV',
         'birthdate': '14 October 1978',
@@ -366,7 +366,7 @@ let rappers = {
         'labels': 'LaFace, Arista, RCA',
         'children': 3
     },
-    'Dua Lipa': {
+    'dua lipa': {
         'age': 26,
         'birthName': 'Dua Lipa',
         'birthdate': '22 August 1995',
@@ -378,7 +378,7 @@ let rappers = {
         'labels': 'Warner, WEA',
         'children': 0
     },
-    'Zayn Malik': {
+    'zayn malik': {
         'age': 29,
         'birthName': 'Zain Javadd Malik',
         'birthdate': '12 January 1993',
@@ -390,7 +390,7 @@ let rappers = {
         'labels': 'RCA, Columbia',
         'children': 1
     },
-    'Rihanna': {
+    'rihanna': {
         'age': 34,
         'birthName': 'Robyn Rihanna Fenty',
         'birthdate': '20 February 1988',
@@ -402,7 +402,7 @@ let rappers = {
         'labels': 'Def Jam, Roc Nation',
         'children': 0
     },
-    'Avril Lavigne': {
+    'avril lavigne': {
         'age': 37,
         'birthName': 'Avril Ramona Lavigne',
         'birthdate': '27 September 1984',
@@ -414,7 +414,7 @@ let rappers = {
         'labels': 'Arista, RCA, Epic',
         'children': 0
     },
-    'Demi Lovato': {
+    'demi lovato': {
         'age': 29,
         'birthName': 'Demetria Devonne Lovato',
         'birthdate': '20 August 1992',
@@ -426,7 +426,7 @@ let rappers = {
         'labels': 'Island, Hollywood',
         'children': 0
     },
-    'Justin Timberlake': {
+    'justin timberlake': {
         'age': 41,
         'birthName': 'Justin Randall Timberlake',
         'birthdate': '31 January 1981',
@@ -438,7 +438,7 @@ let rappers = {
         'labels': 'Jive, RCA',
         'children': 2
     },
-    'Amy Winehouse': {
+    'amy winehouse': {
         'age': 27,
         'birthName': 'Amy Jade Winehouse',
         'birthdate': '14 September 1983',
@@ -450,7 +450,7 @@ let rappers = {
         'labels': 'Island, Universal Republic',
         'children': 0
     },
-    'Eminem': {
+    'eminem': {
         'age': 50,
         'birthName': 'Marshall Bruce Mathers III',
         'birthdate': '17 October 1972',
@@ -462,7 +462,7 @@ let rappers = {
         'labels': 'Aftermath, Shady, Interscope',
         'children': 3
     },
-    'Britney Spears': {
+    'britney spears': {
         'age': 40,
         'birthName': 'Britney Jean Spears',
         'birthdate': '2 December 1981',
@@ -474,7 +474,7 @@ let rappers = {
         'labels': 'Jive, RCA',
         'children': 2
     },
-    'Burna Boy': {
+    'burna boy': {
         'age': 30,
         'birthName': 'Damini Ebunoluwa Ogulu',
         'birthdate': '2 July 1991',
@@ -486,7 +486,7 @@ let rappers = {
         'labels': 'Spaceship, Atlantic',
         'children': 0
     },
-    'Wizkid': {
+    'wizkid': {
         'age': 31,
         'birthName': 'Ayodeji Ibrahim Balogun',
         'birthdate': '16 July 1990',
@@ -498,7 +498,7 @@ let rappers = {
         'labels': 'Starboy, RCA',
         'children': 3
     },
-    'Davido': {
+    'davido': {
         'age': 29,
         'birthName': 'David Adedeji Adeleke',
         'birthdate': '21 November 1992',
@@ -510,7 +510,7 @@ let rappers = {
         'labels': 'DMW, Sony Music',
         'children': 3
     },
-    'Tiwa Savage': {
+    'tiwa savage': {
         'age': 41,
         'birthName': 'Tiwatope Savage',
         'birthdate': '5 February 1980',
@@ -522,7 +522,7 @@ let rappers = {
         'labels': '323 Entertainment, Universal Music',
         'children': 1
     },
-    'Yemi Alade': {
+    'yemi alade': {
         'age': 32,
         'birthName': 'Yemi Eberechi Alade',
         'birthdate': '13 March 1989',
@@ -534,7 +534,7 @@ let rappers = {
         'labels': 'Effyzzie Music, Universal Music',
         'children': 0
     },
-    'Phyno': {
+    'phyno': {
         'age': 35,
         'birthName': 'Chibuzor Nelson Azubuike',
         'birthdate': '9 October 1986',
@@ -546,7 +546,7 @@ let rappers = {
         'labels': 'PentHauze Music',
         'children': 0
     },
-    'Simi': {
+    'simi': {
         'age': 33,
         'birthName': 'Simisola Kosoko',
         'birthdate': '19 April 1988',
@@ -558,7 +558,7 @@ let rappers = {
         'labels': 'Studio Brat',
         'children': 1
     },
-    'Falz': {
+    'falz': {
         'age': 31,
         'birthName': 'Folarin Falana',
         'birthdate': '27 October 1990',
@@ -571,7 +571,7 @@ let rappers = {
         'children': 0
     },
     
-    'P!nk': {
+    'pink': {
         'age': 43,
         'birthName': 'Alecia Beth Moore',
         'birthdate': '8 September 1979',
@@ -583,7 +583,7 @@ let rappers = {
         'labels': 'LaFace, RCA',
         'children': 2
     },
-    'Sam Smith': {
+    'sam smith': {
         'age': 29,
         'birthName': 'Samuel Frederick Smith',
         'birthdate': '19 May 1992',
@@ -595,7 +595,7 @@ let rappers = {
         'labels': 'Capitol, EMI, Universal',
         'children': 0
     },
-    'Alicia Keys': {
+    'alicia keys': {
         'age': 41,
         'birthName': 'Alicia Augello Cook',
         'birthdate': '25 January 1981',
@@ -607,7 +607,7 @@ let rappers = {
         'labels': 'J Records, RCA',
         'children': 2
     },
-    'Pitbull': {
+    'pitbull': {
         'age': 41,
         'birthName': 'Armando Christian Pérez',
         'birthdate': '15 January 1981',
@@ -619,7 +619,7 @@ let rappers = {
         'labels': 'Mr. 305, Polo Grounds, RCA',
         'children': 2
     },
-    'Taylor Swift': {
+    'taylor swift': {
         'age': 32,
         'birthName': 'Taylor Alison Swift',
         'birthdate': '13 December 1989',
@@ -631,7 +631,7 @@ let rappers = {
         'labels': 'Big Machine, Republic',
         'children': 0
     },
-    'Liam Payne': {
+    'liam payne': {
         'age': 28,
         'birthName': 'Liam James Payne',
         'birthdate': '29 August 1993',
