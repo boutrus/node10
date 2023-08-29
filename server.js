@@ -18,7 +18,7 @@ let rappers = {
         'labels': 'Epic, Slaughter Gang',
         'children': 3
     },
-    'Ariana Grande': {
+    'ariana grande': {
         'age': 28,
         'birthName': 'Ariana Grande-Butera',
         'birthdate': '26 June 1993',
